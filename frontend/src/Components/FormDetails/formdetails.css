@@ -1,0 +1,21 @@
+
+.input_Wrapper{
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.button_wrap{
+   /* display: flex;
+   justify-content: center;
+   align-items: center; */
+   margin-top: 5px;
+   padding-left:60px;
+}
+.main_div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid gray; */
+    margin-top: 50px;
+}

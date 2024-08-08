@@ -1,0 +1,22 @@
+.input_wrapper{
+    padding: 5px;
+    border-radius: 28px;
+    margin-left: 31px;
+    border:2px solid green;
+
+}
+.input_wrapper:hover{
+    border:2px solid rgb(237, 240, 50);
+}
+
+.button_wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.button_style{
+    padding: 10px;
+    border-radius: 10px;
+    width: 250px;
+}
